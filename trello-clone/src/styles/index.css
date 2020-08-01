@@ -1,0 +1,21 @@
+html {
+  font-family: sans-serif;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+  margin: 0;
+}
+body {
+  margin: 0;
+}
+.trello-header {
+  height: 40px;
+  max-height: 40px;
+  box-sizing: border-box;
+  display: flex;
+  overflow: hidden;
+  padding: 4px;
+  background-color: rgba(0,0,0,.15);
+}
+.trello-header h1 {
+  margin: 0;
+}
