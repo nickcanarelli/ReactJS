@@ -7,3 +7,10 @@ Todo List:
 - Ability to edit list titles/delete lists
 - Add/Remove boards which contains lists+cards.
 
+Dependencies:
+- MaterialUI
+- React Beautiful DND (Drag-n-Drop)
+- React Redux
+- React Textarea Autosize
+- Redux
+
