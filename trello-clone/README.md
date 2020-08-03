@@ -1,4 +1,4 @@
-# COVID19 Analytics Dashboard
+# Trello Clone
 
 A clone of Trello.com. Built entirely using ReactJS and redux.
 
